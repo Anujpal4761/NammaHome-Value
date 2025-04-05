@@ -1,4 +1,5 @@
-﻿🏠 Namma Home Price Predictor - Bangalore 🧠💻🌐
+﻿🏠 Namma Home Price Predictor - Bangalore 
+🧠💻🌐
 A machine learning powered web application that predicts the price of a house in Bangalore based on area, location, BHK, and number of bathrooms.
 
 
