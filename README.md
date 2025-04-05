@@ -71,7 +71,7 @@ Easily extendable to other cities or more features
 
 📦 Setup Instructions
   1. Clone the repo
-     git clone https://github.com/yourusername/bangalore-house-price-predictor.git
+     git clone https://github.com/Anujpal4761/NammaHome-Value/tree/main.git
      cd bangalore-house-price-predictor
   2. Install dependencies
      pip install -r requirements.txt
